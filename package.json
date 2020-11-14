@@ -1,0 +1,35 @@
+{
+  "name": "sinweka",
+  "version": "2.0.0",
+  "description": "litelabsmombasa",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "path": "^0.12.7",
+    "session": "^0.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wabuge/sinweka.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wabuge/sinweka/issues"
+  },
+  "homepage": "https://github.com/wabuge/sinweka#readme"
+}
